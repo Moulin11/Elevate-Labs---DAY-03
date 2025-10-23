@@ -1,9 +1,9 @@
-💬 Short Explanation
+#Short Explanation
 
 Cloud Storage Buckets are used by companies to store, organize, and manage data such as images, videos, documents, logs, and backups.
 They provide secure, scalable, and cost-efficient access to data from anywhere, supporting both private and public storage needs.
 
-🌍 Real-World Use Cases
+#Real-World Use Cases
 🔹 1. Web Hosting
 
 Companies use cloud storage to host static websites and assets (HTML, CSS, JavaScript, and images).
